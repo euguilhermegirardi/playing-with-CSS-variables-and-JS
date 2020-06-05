@@ -7,7 +7,7 @@
 ## The functionality
 
 It's pretty simple to understand. 
-This exercise has 1 file, the index.html, index.js and the styles.css.
+This exercise has 1 file, the index.html.
 - In the **index.html** I set all the basic informations and also the the JS in the <script> tag, over there you will see a function which controls the functionality of the three inputs.
 
 ## Getting started
